@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <br />
   <br />
   
-  ### 🏆 Github Stats:
+  ### 🏆 My Github Stats:
   
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida)

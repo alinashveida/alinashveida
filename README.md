@@ -30,14 +30,14 @@ Here are some ideas to get you started:
   <br />
   <br />
   
-  ### 🏆 Github Stats & Languages Used:
+  ### 🏆 Github Stats:
   
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida)
  
  ![](https://github.com/alinashveida/github-stats/blob/master/generated/overview.svg)
  
- <a href="https://github.com/alinashveida/ng-limeade">
+ <a href="https://github.com/braydoncoyer/ng-limeade">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alinashveida&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 

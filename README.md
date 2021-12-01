@@ -36,10 +36,9 @@ Here are some ideas to get you started:
   
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida)
- 
- ![](https://github.com/alinashveida/github-stats/blob/master/generated/overview.svg)
- 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alinashveida)
+ 
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alinashveida&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
 
 

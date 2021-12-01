@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 ### 🧰 Languages an Tools
+
+
 <img width="50px" height="50px" align="left" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="50px" height="50px" align="left" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="50px" height="50px" align="left" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -37,9 +39,7 @@ Here are some ideas to get you started:
  
  ![](https://github.com/alinashveida/github-stats/blob/master/generated/overview.svg)
  
- <a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alinashveida&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alinashveida)
 
 
 

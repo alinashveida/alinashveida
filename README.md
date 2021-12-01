@@ -29,10 +29,8 @@ Here are some ideas to get you started:
   <br />
   <br />
   <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida )](https://github.com/alinashveida /github-readme-stats)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida&theme=tokyonight)
+## Github Stats & Languages Used
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida)
 
 
 

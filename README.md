@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Languages an Tools
+#### 🧰Languages an Tools
 <img width="50px" height="50px" align="left" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="50px" height="50px" align="left" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="50px" height="50px" align="left" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <br />
   <br />
   
-  ## Github Stats & Languages Used
+  #### 🏆Github Stats & Languages Used:
   
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida)

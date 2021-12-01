@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinashveida)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alinashveida)
  
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alinashveida&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alinashveida&repo=ng-limeade&title_color=ffffff&text_color=FFB6C1&icon_color=FFB6C1&bg_color=1A2B34" />
 
 
 
